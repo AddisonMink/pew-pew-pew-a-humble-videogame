@@ -1,5 +1,8 @@
 # pew-pew-pew-a-humble-videogame
 INTRODUCTION<br />
+
+![Alt text](/PewPewPewTitle.png?raw=true "Optional Title")
+
 This is something I made in GameMaker a couple of years ago. It's a space shooter in the vein of Gradius. PewPewPew2.gmx.zip is the project file that contains all the source code and assets. PewPewPew2.zip contains an Windows installer for thegame.
 
 INSTRUCTIONS
