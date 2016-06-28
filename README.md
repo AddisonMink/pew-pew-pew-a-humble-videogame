@@ -1,4 +1,4 @@
-# pew-pew-pew-a-humble-videogame
+# Pew Pew Pew: A Humble Video Game
 INTRODUCTION<br />
 
 ![Alt text](/PewPewPewTitle.png?raw=true "Title Screen")
